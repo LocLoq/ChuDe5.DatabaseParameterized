@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Lab_Advanced_Command/Lab_Advanced_Command.csproj" />
+  <Project Path="Bai1/Bai1.csproj" />
+  <Project Path="Bai2/Bai2.csproj" />
+  <Project Path="Bai3/Bai3.csproj" />
+</Solution>
